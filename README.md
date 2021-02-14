@@ -1,2 +1,2 @@
 # ToDoList
-Type what ya need and click it if ya finish.
+Type and remember.
