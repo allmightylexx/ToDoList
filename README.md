@@ -1,2 +1,2 @@
 # ToDoList
-Type and remember.
+Type something to remember.
